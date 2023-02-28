@@ -18,7 +18,7 @@ class ClasseBanco{
         valor++;
     }
 
-     public void consulatr(){
+     public void consultar(){
         conta--;
     }
 
