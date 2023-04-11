@@ -1,4 +1,4 @@
-namespace agregação;
+namespace agregacaoo;
 class Cartao
 {
     public string? Numero {get; set;}
