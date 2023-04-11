@@ -1,4 +1,4 @@
-﻿namespace agregação;
+﻿namespace agregacao;
 class Program
 {
     static void Main(string[] args)
