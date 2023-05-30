@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Ex30-05\bin\Debug\net7.0\Ex30-05.exe
+C:\Users\LAB4\Desktop\Ex30-05\bin\Debug\net7.0\Ex30-05.deps.json
+C:\Users\LAB4\Desktop\Ex30-05\bin\Debug\net7.0\Ex30-05.runtimeconfig.json
+C:\Users\LAB4\Desktop\Ex30-05\bin\Debug\net7.0\Ex30-05.dll
+C:\Users\LAB4\Desktop\Ex30-05\bin\Debug\net7.0\Ex30-05.pdb
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.dll
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\refint\Ex30-05.dll
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.pdb
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\Ex30-05.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Ex30-05\obj\Debug\net7.0\ref\Ex30-05.dll
