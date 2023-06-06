@@ -1,0 +1,65 @@
+body{
+    font-family: Roboto;
+    background: -webkit-linear-gradient(to left, #d4a50d52, #9b998b);
+    background: linear-gradient(to left, #d4a50d52, #9b998b);
+}
+
+#container{
+    margin: 0 auto;
+    width: auto;
+    display: table;
+    text-align: center;
+}
+
+#convert{
+    margin-top: 2%;
+    background-color: blue;
+}
+
+#clear{
+    margin-top: 2%;
+    background-color: red;
+}
+
+#convert:hover{
+    background-color: #bcc768;
+}
+
+h1{
+    font-family: sans-serif;
+    color: #042640;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    font-size: 2em;
+    color: #f4a55a;
+    font-family: cursive, sans-serif;
+}
+
+::-webkit-input-placeholder {
+    color: #ccc;
+}
+
+:-moz-placeholder{
+    color: #ccc;
+}
+
+::-moz-placeholder{
+    color: #ccc;
+}
+
+:-ms-input-placeholder{
+    color: #ccc;
+}
+
+button{
+    padding: 10px;
+    font-size: 1.2em;
+    color: #ffff;
+}
+
+img{
+   width: 20%;
+}
